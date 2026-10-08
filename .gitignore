@@ -1,0 +1,12 @@
+# 兜底排除：本目录只应包含网站发布文件
+# 若误复制了以下内容，git 不会追踪它们
+
+*.exe
+*.zip
+_backup/
+_shots/
+.obsidian/
+建站资料/
+rule.md
+log.md
+direction-approved.md
